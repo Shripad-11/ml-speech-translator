@@ -1,0 +1,16 @@
+flask==3.0.3
+faster-whisper
+transformers==4.44.2
+torch
+datasets==2.21.0
+accelerate==0.33.0
+pandas==2.2.2
+sentencepiece==0.2.0
+protobuf==5.27.3
+googletrans==4.0.0-rc1
+gTTS==2.5.3
+safetensors==0.4.5
+IndicTransToolkit
+noisereduce
+librosa
+soundfile

@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Uploads
+uploads/*
+!uploads/.gitkeep
+static/generated/*
+!static/generated/.gitkeep
+data/*
+dataset_raw/*
+artifacts/*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Keys
+.env
